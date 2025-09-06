@@ -3,6 +3,20 @@
   "name": "use your brain more",
   "version": "0.1.0",
   "description": "We are constantly been over exposed to AI that even for a small query to tend to it hence this extension to help you take informed decision before going into the AI rabbithole or internet brainrot",
+  "icons": {
+    "16": "use_your_brain_more.png",
+    "32": "use_your_brain_more.png",
+    "48": "use_your_brain_more.png",
+    "128": "use_your_brain_more.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "use_your_brain_more.png",
+      "32": "use_your_brain_more.png",
+      "48": "use_your_brain_more.png",
+      "128": "use_your_brain_more.png"
+    }
+  },
   "permissions": ["storage", "tabs"],
   "host_permissions": ["<all_urls>"],
   "background": {
