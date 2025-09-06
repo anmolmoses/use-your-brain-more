@@ -1,4 +1,6 @@
-# Site Reminder Popup (Chrome Extension)
+# use your brain more (Chrome Extension)
+
+We are constantly been over exposed to AI that even for a small query to tend to it hence this extension to help you take informed decision before going into the AI rabbithole or internet brainrot
 
 Show a customizable reminder before visiting configured sites, with a per-site message and a global cooldown timer. All data is stored locally using `chrome.storage.local`.
 
@@ -43,4 +45,3 @@ Show a customizable reminder before visiting configured sites, with a per-site m
   - Full/partial URL: `https://example.com/path`, `example.com/path`
   - Regex: `/^https?:\\/\\/.*example\\.com\\/danger/`
 - Set cooldown to `0` to show every time.
-

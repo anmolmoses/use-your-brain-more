@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Site Reminder Popup",
+  "name": "use your brain more",
   "version": "0.1.0",
-  "description": "Show a customizable reminder before visiting configured sites, with per-site messages and a cooldown timer.",
+  "description": "We are constantly been over exposed to AI that even for a small query to tend to it hence this extension to help you take informed decision before going into the AI rabbithole or internet brainrot",
   "permissions": ["storage", "tabs"],
   "host_permissions": ["<all_urls>"],
   "background": {
